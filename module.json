@@ -13,6 +13,6 @@
       "verified": "10"
     },
     "url": "https://github.com/fchrysoulas/Test/",
-    "manifest": "https://github.com/fchrysoulas/Test/releases/latest/download/module.json",
+    "manifest": "https://github.com/fchrysoulas/Test/releases/download/0.0.1/module.json",
     "download": "https://github.com/fchrysoulas/Test/releases/download/0.0.1/module.zip"
   }
