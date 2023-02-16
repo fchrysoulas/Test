@@ -1,0 +1,15 @@
+{
+    "id": "kult-style",
+    "title": "KULT Style - Test FVTT Module",
+    "description": "A simple module created as a demo for working in the Foundry Virtual Tabletop framework.",
+    "authors": [
+      {
+      "name": "Fotis"
+      }
+      ],
+    "version": "1.0.0",
+    "compatibility": {
+      "minimum": "9",
+      "verified": "10"
+    }
+  }
